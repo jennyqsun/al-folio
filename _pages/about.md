@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. UCI. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: me.jpg
+  image: me_vancouver.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
