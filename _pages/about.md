@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. UCI. 
+subtitle: <a href='#'>Affiliations</a>. Human Neuroscience Lab, UCI. 
 
 profile:
   align: right
